@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-name: 🚀 🚀 🚀  Deploy CV Achraf Sendid Online 
+name: 🚀 🚀 🚀  Deploy CV Achraf Sendid online 
 jobs:
   web-deploy:
     name: 🚀 🚀 🚀  Deploy cv
